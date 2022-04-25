@@ -19,5 +19,5 @@ Route::get('/', function () {
 
 Route::view('/anasayfa','anasayfa');
 Route::get('/kategori/{slug_kategoriadi}','App\Http\Controllers\kategoriController@index')->name('kategori');
-Route::view('/urun','urun');
-Route::view('/sepet','sepet');
+Route::get('/urun/{slug_urunadi}','App\Http\Controllers\urunController@index')->name('urun');
+Route::get('/sepet','App\Http\Controllers\sepetController@index')->name('sepet');

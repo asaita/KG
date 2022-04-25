@@ -47,25 +47,26 @@
                 <hr>
                 <div class="row">
                     <div class="col-md-3 product">
-                        <a href="#"><img src="http://lorempixel.com/400/400/food/1"></a>
+
+                        <a href="#"><img src="https://i0.wp.com/kayisigelsin.com/wp-content/uploads/2022/04/antep-fistikli-malatya-kayisi-doneri.jpg?fit=1000%2C1000&ssl=1" width="200px" height="200px"></a>
                         <p><a href="#">Ürün adı</a></p>
                         <p class="price">129 ₺</p>
                         <p><a href="#" class="btn btn-theme">Sepete Ekle</a></p>
                     </div>
                     <div class="col-md-3 product">
-                        <a href="#"><img src="http://lorempixel.com/400/400/food/2"></a>
+                        <a href="#"><img src="https://i0.wp.com/kayisigelsin.com/wp-content/uploads/2022/04/antep-fistikli-malatya-kayisi-doneri.jpg?fit=1000%2C1000&ssl=1" width="200px" height="200px"></a>
                         <p><a href="#">Ürün adı</a></p>
                         <p class="price">129 ₺</p>
                         <p><a href="#" class="btn btn-theme">Sepete Ekle</a></p>
                     </div>
                     <div class="col-md-3 product">
-                        <a href="#"><img src="http://lorempixel.com/400/400/food/3"></a>
+                        <a href="#"><img src="https://i0.wp.com/kayisigelsin.com/wp-content/uploads/2022/04/antep-fistikli-malatya-kayisi-doneri.jpg?fit=1000%2C1000&ssl=1" width="200px" height="200px"></a>
                         <p><a href="#">Ürün adı</a></p>
                         <p class="price">129 ₺</p>
                         <p><a href="#" class="btn btn-theme">Sepete Ekle</a></p>
                     </div>
                     <div class="col-md-3 product">
-                        <a href="#"><img src="http://lorempixel.com/400/400/food/4"></a>
+                        <a href="#"><img src="https://i0.wp.com/kayisigelsin.com/wp-content/uploads/2022/04/antep-fistikli-malatya-kayisi-doneri.jpg?fit=1000%2C1000&ssl=1" width="200px" height="200px"></a>
                         <p><a href="#">Ürün adı</a></p>
                         <p class="price">129 ₺</p>
                         <p><a href="#" class="btn btn-theme">Sepete Ekle</a></p>
